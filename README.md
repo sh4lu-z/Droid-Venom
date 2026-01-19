@@ -19,14 +19,28 @@
 * **පහසු අතුරුමුහුණත**: ASCII Art බැනරයක් සහ පැහැදිලි තේරීම් මෙනුවක් සහිතයි.
 * **Social Engineering පද්ධතිය**: Zphisher සහ Seeker වැනි ජනප්‍රිය මෙවලම් සෘජුවම ලබාගැනීමට ඇති පහසුව.
  
-Category            Tools Included
-කාණ්ඩය            ඇතුළත් මෙවලම්
-
-Basics	            Python, Git, PHP, Curl, Wget, Nano
-මූලික පැකේජ
-Pen-Testing     	  Nmap, Hydra, Sqlmap, Nikto
-පරීක්ෂණ මෙවලම්
-Social Engineering	Zphisher, Seeker
+<table>
+  <thead>
+    <tr>
+      <th>කාණ්ඩය (Category)</th>
+      <th>ඇතුළත් මෙවලම් (Tools Included)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>මූලික පැකේජ (Basics)</b></td>
+      <td>Python, Git, PHP, Curl, Wget, Nano</td>
+    </tr>
+    <tr>
+      <td><b>පරීක්ෂණ මෙවලම් (Pen-Testing)</b></td>
+      <td>Nmap, Hydra, Sqlmap, Nikto</td>
+    </tr>
+    <tr>
+      <td><b>Social Engineering</b></td>
+      <td>Zphisher, Seeker</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 🚀 Installation Guide:
