@@ -1,36 +1,33 @@
-# 🐍 Droid-Venom: The Ultimate Termux Arsenal ( Droid-Venom: බලගතුම Termux මෙවලම් කට්ටලය)
+# 🐍 Droid-Venom: The Ultimate Termux Arsenal 
  
 
 **Droid-Venom** is a powerful, automated all-in-one tool installer designed for Android users via Termux. It simplifies the installation of essential packages and advanced penetration testing tools, saving time and ensuring a smooth hacking environment.
-(Droid-Venom යනු ඇන්ඩ්‍රොයිඩ් (Android) පරිශීලකයින් සඳහාම විශේෂයෙන් නිර්මාණය කරන ලද, Termux පරිසරය තුළ Ethical Hacking මෙවලම් ස්වයංක්‍රීයව ස්ථාපනය කරගැනීමට උදව් වන ප්‍රබල මෘදුකාංගයකි. මෙමඟින් ඔබගේ කාලය ඉතිරි කරමින්, අවශ්‍ය සියලුම මූලික සහ දියුණු මෙවලම් එකම මෙනුවක් (Menu) හරහා පහසුවෙන් ලබාගත හැකිය.)
 
 
-## ✨ Key Features: ( ප්‍රධාන අංග)
+
+## ✨ Key Features:
 
 * **Automated Tool Installer**: One-click installation for Python, Git, PHP, Nmap, Sqlmap, and more.
 * **Android Optimized**: Specifically built for the Termux and Android environment.
 * **User-Friendly Interface**: Includes a professional ASCII art banner and a clear selection menu.
 * **Integrated Social Engineering**: Direct access to top tools like Zphisher and Seeker.
 
-* **Automated Tool Installer**: Python, Git, PHP වැනි මූලික මෘදුකාංග සහ Nmap, Sqlmap වැනි දියුණු මෙවලම් එකවර ස්ථාපනය කිරීමේ හැකියාව.
-* **Android Optimized**: විශේෂයෙන්ම Termux සහ Android පරිසරයට ගැළපෙන පරිදි සකසා ඇත.
-* **පහසු අතුරුමුහුණත**: ASCII Art බැනරයක් සහ පැහැදිලි තේරීම් මෙනුවක් සහිතයි.
-* **Social Engineering පද්ධතිය**: Zphisher සහ Seeker වැනි ජනප්‍රිය මෙවලම් සෘජුවම ලබාගැනීමට ඇති පහසුව.
+
  
 <table>
   <thead>
     <tr>
-      <th>කාණ්ඩය (Category)</th>
-      <th>ඇතුළත් මෙවලම් (Tools Included)</th>
+      <th>Category</th>
+      <th>Tools Included</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>මූලික පැකේජ (Basics)</b></td>
+      <td><b>Basics</b></td>
       <td>Python, Git, PHP, Curl, Wget, Nano</td>
     </tr>
     <tr>
-      <td><b>පරීක්ෂණ මෙවලම් (Pen-Testing)</b></td>
+      <td><b>Pen-Testing</b></td>
       <td>Nmap, Hydra, Sqlmap, Nikto</td>
     </tr>
     <tr>
@@ -41,11 +38,11 @@
 </table>
 
 
-## 🚀 Installation Guide: (ස්ථාපනය කරන ආකාරය)
+## 🚀 Installation Guide: 
 
 
 To install and run **Droid-Venom** on your Termux, use the following commands
-ඔබගේ Termux එක තුළ මෙම මෙවලම ක්‍රියාත්මක කිරීමට පහත සඳහන් කමාන්ඩ්ස් පිළිවෙලට භාවිතා කරන්න
+
 
 ```bash
 # Update System Packages
