@@ -55,7 +55,7 @@ pkg install git -y
 
 # Clone the Repository
 # Droid-Venom ක්ලෝන් කිරීම
-git clone https://github.com/sh4lu-z/Droid-Venom
+git clone [https://github.com/sh4lu-z/Droid-Venom.git](https://github.com/sh4lu-z/Droid-Venom.git)
 
 # Navigate to Folder
 # ෆෝල්ඩරය වෙත ඇතුල් වීම
