@@ -10,7 +10,7 @@
 * **Automated Tool Installer**: One-click installation for Python, Git, PHP, Nmap, Sqlmap, and more.
 * **Android Optimized**: Specifically built for the Termux and Android environment.
 * **User-Friendly Interface**: Includes a professional ASCII art banner and a clear selection menu.
-* **Integrated Social Engineering**: Direct access to top tools like Zphisher and Seeker.
+* **Integrated Social Engineering**: Direct access to top tools like Zphisher, Seeker, and PyPhisher.
 
 
  
@@ -24,15 +24,31 @@
   <tbody>
     <tr>
       <td><b>Basics</b></td>
-      <td>Python, Git, PHP, Curl, Wget, Nano</td>
+      <td>Python, Git, PHP, Curl, Wget, Nano, Ruby, Golang, Perl, Clang</td>
     </tr>
     <tr>
-      <td><b>Pen-Testing</b></td>
-      <td>Nmap, Hydra, Sqlmap, Nikto</td>
+      <td><b>Information Gathering</b></td>
+      <td>Whois, DNSUtils, Sherlock, RedHawk, Th3Inspector</td>
     </tr>
     <tr>
-      <td><b>Social Engineering</b></td>
-      <td>Zphisher, Seeker</td>
+      <td><b>Web Vulnerability</b></td>
+      <td>Sqlmap, Nikto, Dirb, Gobuster</td>
+    </tr>
+    <tr>
+      <td><b>Network Analysis</b></td>
+      <td>Nmap, Tshark, Net-tools, Macchanger, Routersploit</td>
+    </tr>
+    <tr>
+      <td><b>Phishing & Social Engineering</b></td>
+      <td>Zphisher, Seeker, PyPhisher, CamHacker</td>
+    </tr>
+    <tr>
+      <td><b>Password Attacks</b></td>
+      <td>Hydra, John The Ripper, Hashcat, Cupp</td>
+    </tr>
+    <tr>
+      <td><b>Termux Utilities</b></td>
+      <td>Proot-Distro, Neofetch, Tmux, Htop, Cmatrix, Vim</td>
     </tr>
   </tbody>
 </table>
@@ -68,4 +84,4 @@ chmod +x install.sh
 # Start the Installer
 # ක්‍රියාත්මක කිරීම
 ./install.sh
-
+```
